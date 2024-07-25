@@ -1,0 +1,23 @@
+.sidemenu {
+  background-color: #568aff;
+}
+
+.nav button {
+  background-color: #fff;
+  color: #568aff;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 10px 15px;
+  margin-top: 10px;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  border: transparent;
+  text-align: left;
+}
+.nav i {
+  color: black;
+  margin: 5px;
+  font-size: large;
+  margin-right: 25px;
+}
